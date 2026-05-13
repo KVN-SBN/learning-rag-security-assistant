@@ -1,0 +1,9 @@
+Multiple failed SSH login attempts detected from IP 103.25.44.2.
+
+User authentication failures exceeded threshold.
+
+Potential brute-force attack suspected on production server.
+
+Several login attempts targeted the root account.
+
+Firewall logs indicate repeated access attempts over a short period.
